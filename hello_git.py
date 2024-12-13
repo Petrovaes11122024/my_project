@@ -15,3 +15,7 @@ print(f'\nYour current directory: {os.getcwd()}')
 
 s = 'Version Control System'
 print(f'{s} - length is {len(s)} characters')
+
+import module
+
+print(module.add_num(2,3))
