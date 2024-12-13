@@ -10,7 +10,7 @@ while ind <= 9:
         sum += ind
         print(sum)
         ind += 1
-=======
+
 print('Create new branch testing')
 import os
 print('Hello, Git!')
