@@ -25,3 +25,4 @@ import module
 
 print(module.add_num(2,3))
 
+print('Клон репозитория')
